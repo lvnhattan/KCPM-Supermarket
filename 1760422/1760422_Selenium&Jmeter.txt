@@ -1,0 +1,5 @@
+﻿- Dùng Selenium IDE cho chức năng cập nhật địa chỉ:
+https://www.youtube.com/watch?v=szCHZdd7knk&t=11s
+
+- Dùng Jmeter cho thử hiệu năng về Menu loại sản phẩm: 
+https://www.youtube.com/watch?v=Vmuj8b4xqjc&t=3s

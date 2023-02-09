@@ -1,0 +1,2 @@
+﻿Cách sử dụng Selenium cho chức năng xem thông tin món hàng:https://youtu.be/fbw1yFBIE9k
+Cách sử dụng Jmeter kiểm thử hiệu năng truy cập trang chủ:https://youtu.be/aej-XjAYn5g

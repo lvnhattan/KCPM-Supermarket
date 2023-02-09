@@ -1,0 +1,6 @@
+﻿
+-Dùng Selenium IDE cho chức năng bản đồ:
+https://www.youtube.com/watch?v=1_bJ0DpNMlI
+
+-Dùng Jmeter cho chức năng xem giỏ hàng cùng một lúc: 
+https://www.youtube.com/watch?v=dGnK3BZPeyI

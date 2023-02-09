@@ -1,0 +1,7 @@
+﻿1. Video về Jmeter kiểm thử : "Hiển thị danh sách sản phẩm theo loại"
+Link: https://www.youtube.com/watch?v=kWTFEqNeWIE
+
+2. Video về Selenium kiểm thử : "Tìm kiểm sản phẩm theo tên sản phẩm"
+Link: https://www.youtube.com/watch?v=REPVNkkB7KA
+
+3. Các kĩ thuật test: "test case template"
